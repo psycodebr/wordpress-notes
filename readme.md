@@ -4,11 +4,7 @@ Bem-vindo ao repositório "Vault" do estudo sobre **WordPress**. Este espaço fo
 
 ## Objetivo
 
-<<<<<<< HEAD
 O principal objetivo deste repositório é organizar e consolidar as informações sobre WordPress de forma prática e acessível. A documentação abordará temas como:
-=======
-O principal objetivo deste repositório é organizar e consolidar as informações sobre WordPress de forma prática e acessível. A documentação abordará alguns temas como:
->>>>>>> eb75075 (Teste de commit)
 
 - **Instalação do WordPress**
 - **Configuração de temas e plugins**
