@@ -15,7 +15,7 @@ Bem-vindo ao repositório "Vault" do estudo sobre **WordPress**. Este espaço fo
 
 ## Estrutura
 
-A estrutura do repositório está organizada da seguinte forma:
+A estrutura atual do repositório está organizada da seguinte forma:
 
 - **/obsidian-vault**: Pastas e anotações relacionadas aos estudos feitos no Obsidian.
 - **README.md**: Documento principal contendo as informações sobre o projeto.
