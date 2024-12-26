@@ -4,7 +4,6 @@ Bem-vindo ao repositório "Vault" do estudo sobre **WordPress**. Este espaço fo
 
 ## Objetivo
 
-O principal objetivo deste repositório é organizar e consolidar as informações sobre WordPress de forma prática e acessível. A documentação abordará temas como:
 
 - **Instalação do WordPress**
 - **Configuração de temas e plugins**
